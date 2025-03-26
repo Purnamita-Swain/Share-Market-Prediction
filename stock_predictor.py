@@ -1934,8 +1934,4 @@ try:
 except Exception as e:
     st.error(f"Error: {str(e)}")
     st.write("Detailed error information:", str(e))
-# st.markdown("---")  
-# st.markdown(
-#     "🔗 [GitHub](https://github.com/Aditya3878)",
-#     unsafe_allow_html=True
-# )
+
