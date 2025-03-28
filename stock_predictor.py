@@ -34,9 +34,9 @@ except LookupError:
     nltk.download('vader_lexicon')
     nltk.download('punkt')
 
-st.set_page_config(page_title="Multi-Algorithm Stock Predictor", layout="wide")
+st.set_page_config(page_title="Share Market Predictor", layout="wide")
 st.markdown(
-    "<h1 style='text-align: center;'>Multi-Algorithm Stock Predictor</h1>",
+    "<h1 style='text-align: center;'>Share Market Predictor</h1>",
     unsafe_allow_html=True
 )
 
