@@ -87,4 +87,4 @@ The system generates trading signals based on:
 7. Enhanced risk management features
 
 ---
-⚠️ **Disclaimer**: This tool is for educational and research purposes only. Always conduct your own research and consider consulting with a financial advisor before making investment decisions.
+ **Disclaimer**: This tool is for educational and research purposes only. Always conduct your own research and consider consulting with a financial advisor before making investment decisions.
